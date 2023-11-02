@@ -1,5 +1,5 @@
-# Deploy Realtime-Chat-App on DockerHub using Terraform
-Real-time Chat App deploying on the EC2 instance which is created using the Terraform as an I.A.A.C tool also running shell scripts for the installations of required tools
+# Deploy Realtime-Chat-App on Docker using Terraform
+Real-time Chat App deploying on the EC2 instance which is created using the Terraform as an I.A.C tool also running shell scripts for the installations of required tools
 
 ## Installation 
 After downloading or cloning run `npm install` to install all the dependencies.
@@ -22,10 +22,9 @@ After downloading or cloning run `npm install` to install all the dependencies.
 - Dealing with File Provisioner, Remote Exec Provisioner
 - Applying Shell Script to install dependencies.
 
-To follow along 
-**Link to the Blog:** 
+## **MUST** Follow along [LINK TO THE BLOG](https://codemyworld.hashnode.dev/deploy-real-time-chat-app-on-docker-using-terraform)
 
-## Implementation
+## 🔥 Live Implementation GIF 🔥
 ![ezgif com-video-to-gif (4)](https://github.com/adityadhopade/terraform-realtime-chatapp/assets/48392204/df37589f-4aed-4f4a-bdc0-7ad752a06e76)
 
 
